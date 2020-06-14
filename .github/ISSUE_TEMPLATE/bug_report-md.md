@@ -1,9 +1,8 @@
 ---
 name: bug_report.md
 about: Create a report to help us improve
-title: Issues-w-tissues
-labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
-  invalid, question, wontfix
+title: Issues Template
+labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,, question, wontfix
 assignees: LuckyLuv
 
 ---
@@ -25,15 +24,15 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - OS: [e.g. Lenovo x131e]
+ - Browser [e.g. chrome, safari, Mozilla]
+ - Version [e.g. 6.9.427.30]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - Device: [e.g. LG-K40)
+ - OS: [e.g. Andriod 9]
+ - Browser [e.g. stock browser,Google]
+ - Version [e.g. LG)
 
 **Additional context**
 Add any other context about the problem here.
