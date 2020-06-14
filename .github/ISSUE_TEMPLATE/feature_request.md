@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: '123 Teams'
+labels: 'request , push, help wanted, suggestions ,applications'
+assignees: 'Laura VanLaningham'
 
 ---
 
