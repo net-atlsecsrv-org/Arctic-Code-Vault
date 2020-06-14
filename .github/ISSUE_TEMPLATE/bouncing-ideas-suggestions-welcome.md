@@ -2,8 +2,8 @@
 name: Bouncing-Ideas-Suggestions-Welcome
 about: Suggest an idea for this project
 title: Project Suggestions
-labels: "[zube]: Backlog, [zube]: Done, [zube]: In Progress, [zube]: In Review, [zube]:
-  Inbox, [zube]: Ready, duplicate, enhancement, question"
+labels: : Backlog, Done,In Progress,  In Review,
+  Inbox,  Ready, duplicate, enhancement, question"
 assignees: LuckyLuv
 
 ---
