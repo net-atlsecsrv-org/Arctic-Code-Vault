@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Microsoft/join-dev-design#readme",
   "devDependencies": {
-    "serve": "^9.2.0",
+    "serve": "^14.2.8",
     "unzip": "^0.1.11"
   },
   "dependencies": {
